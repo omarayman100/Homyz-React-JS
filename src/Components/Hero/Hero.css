@@ -127,3 +127,12 @@ max-width: 90%;
 }
 
 }
+
+@media (max-width:316px) {
+
+    .search-bar{
+max-width: 90%;
+        margin: auto;
+        max-height: 60px;
+        }
+    }
