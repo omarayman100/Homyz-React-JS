@@ -92,6 +92,16 @@ color: orange;
     line-height: 3rem;
    
 }
+    
+    
+    .search-bar >input{
+max-width: 90%;
+        margin: auto;
+        }
+
+
+    
+    
 .image-container{
     width: 95%;
     height: 25rem;
